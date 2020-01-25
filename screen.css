@@ -53,9 +53,10 @@ html  {
 }
 h1  {
   font-size: 5em;
-  padding: .15em;
+  padding-top: .15em;
+  padding-bottom: .15em;
 }
 p  {
   font-size: 1em;
-  padding-bottom: .5em;
+  padding-bottom: 1em;
 }
