@@ -9,3 +9,15 @@ the better, to create an efficient and safe environment for everyone with the
 help of computer science. I aspire to relieve humans from hazardous jobs and
 make everyone’s life more enjoyable and efficient with artificial intelligence
 and robotics application.
+
+As I believe that learning is an active process and should not be restricted to
+just the classroom, I eagerly signed up for an undergraduate research under the
+Computer Science Department whereby I examined the different ways of
+incorporating machine learning methodologies into the nonintrusive load
+monitoring (NILM) process for energy disaggregation. My main contribution to
+this project was the development of two data pre-processing tools which reduced
+the time and memory consumption. As I continued to develop the
+project, I successfully delivered a high accuracy ResNet (Residual Networks)
+based semi-supervised learning model after experimenting with other neural
+network architectures such as LSTM (Long short-term memory) and DAE (Denoising
+Autoencoder).
