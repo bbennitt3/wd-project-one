@@ -39,3 +39,19 @@ with Natural Language Processing (NLP) tools, which upgraded the scripted
 chatbot to an artificially intelligent chatbot. Upon the successful completion
 of my first chatbot, I was then tasked to automated two legacy debugging tools
 and develop multiple APIs for two other chatbot models.
+
+I have always believed in a saying which goes by “Logic will get you from A to
+B, but imagination will take you everywhere”, which is what I am hoping to get
+out of this class. I have taken a lot of STEM-related classes which only provide
+me with technical knowledge but not the artistic part. I hope by the end of this
+class, I will be a better version of me in term of web development and
+designing. In general, I aspire to create efficient self-learning robots that
+could help to relieve humans from hazardous jobs, and knowledge in advanced
+artificial intelligence and robotics is essential. Thomas Edison revolutionized
+the world with the invention of the lightbulb, something once thought
+impossible. It is possible to have another major technological revolution to
+change how the world looks at robotics in healthcare. My decision to join the
+artificial intelligence industry boils down to my passion in the field as I am
+fascinated with its application in robotics and how I can make further
+enhancements. It is my strong desire to bring a change in optimizing the usage
+of artificial intelligence in most robotics applications.
