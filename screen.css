@@ -54,7 +54,9 @@ html  {
   padding: .5em;
 }
 h1  {
+  font-family: fantasy,courier,arial,helvetica;
   font-size: 5em;
+  font-weight: 600;
   padding-top: .15em;
   padding-bottom: .15em;
 }
