@@ -21,3 +21,21 @@ project, I successfully delivered a high accuracy ResNet (Residual Networks)
 based semi-supervised learning model after experimenting with other neural
 network architectures such as LSTM (Long short-term memory) and DAE (Denoising
 Autoencoder).
+
+Aside from my experiences in research, I had an exciting internship working as a
+big data engineering intern at Keysight Technologies during the summer of 2019.
+My first task was to build a big data analytics system to centralize data coming
+from multiple applications. I was also given more opportunities to work on
+several other projects that eventually helped to streamline sophisticated work
+processes and improved work efficiency for the department. For instance, I built
+and trained two artificial neural network models (Autoencoder and XGBOD) for
+data pattern recognition and anomaly detection with 97% accuracy, which
+ultimately replaced the time taxing manual testing performed by the engineers.
+The following semester, I spent my time doing a co-operative education with
+Intel as an IoT software engineering intern. My responsibility focused on two
+parallel projects where the first one was to develop a contextual AI chatbot.
+The most exciting yet challenging part is the chatbot conversation flow design
+with Natural Language Processing (NLP) tools, which upgraded the scripted
+chatbot to an artificially intelligent chatbot. Upon the successful completion
+of my first chatbot, I was then tasked to automated two legacy debugging tools
+and develop multiple APIs for two other chatbot models.
