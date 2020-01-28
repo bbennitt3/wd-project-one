@@ -54,14 +54,14 @@ html  {
   padding: .5em;
 }
 h1  {
-  font-family: helvetica,courier,arial,;
+  font-family: helvetica, courier, arial;
   font-size: 3.5em;
   font-weight: 600;
   padding-top: .15em;
   padding-bottom: .15em;
 }
 p  {
-	font-family: arial,helvetica;
+	font-family: arial, helvetica;
   font-size: 1em;
   padding-bottom: 1em;
 	text-align: justify;
